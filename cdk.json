@@ -1,0 +1,7 @@
+{
+  "context": {
+    "stage": "dev",
+    "app_name": "app"
+    },
+  "app": "npx ts-node bin/aws-cdk_ci.ts"
+}
